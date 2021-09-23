@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ldt-libs:SpringBackLayout:1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e9d1d115e61988512164eea2854576f6/jetified-SpringBackLayout-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e9d1d115e61988512164eea2854576f6/jetified-SpringBackLayout-1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e9d1d115e61988512164eea2854576f6/jetified-SpringBackLayout-1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ldt-libs/SpringBackLayout/1.0/1857b07879dcafe5cc911c3d11c251682ba2b104/SpringBackLayout-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
